@@ -1,3 +1,3 @@
-# Online Shop
+Online Shop
 
 Welcome to my online shop
